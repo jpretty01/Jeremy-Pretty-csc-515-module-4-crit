@@ -1,3 +1,7 @@
+# Jeremy Pretty
+# CSC 515
+# Module 4 Crit
+# March 5 2023
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
